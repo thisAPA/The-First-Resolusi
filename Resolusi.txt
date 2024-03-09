@@ -1,3 +1,4 @@
 Resolusi di Awal Bulan Tahun 2024
 - Fokus Belajar Hal Pembuatan Materi dan Bahan Ajar
 - Mempelajari Unreal Engine
+- Membuat Tutorial Penggunaan Unreal Engine untuk Membuat Game
